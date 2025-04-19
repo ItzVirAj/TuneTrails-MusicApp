@@ -51,6 +51,8 @@ Secure login using JWT and bcrypt.
  Role-based access (user/admin) for controlled functionality.
 
 **📁 Folder Structure (Basic):**
+
+
 ![image](https://github.com/user-attachments/assets/8d99c947-8a72-4b5e-894a-14d1206e48bb)
 
 
