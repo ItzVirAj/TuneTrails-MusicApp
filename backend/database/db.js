@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 const connectDb = async () => {
   try {
     await mongoose.connect(
-      "mongodb+srv://admin:admin@musiccluster.1oy8uy7.mongodb.net/SpotifyClone?retryWrites=true&w=majority",
+      "MONGO-DB_URI_HERE,
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
